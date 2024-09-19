@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -86,7 +87,7 @@
 
   <!-- Crear el menu -->
   <div class="topnav">
-    <a href="https://www.mined.gob.sv/" >INICIO</a>
+    <a href="https://es.wikipedia.org/wiki/Bad_Bunny" >INICIO</a>
 	        <!--p align="rigth">MINED -->
     <a href="#">MISION</a>
     <a href="#">VISION</a>
@@ -96,7 +97,7 @@
   <!-- cuerpo de la pagina -->
   <div class="row">`
     <div class="row__column side">
-      <h2> Bad Bunny. Benito Antonio Martínez Ocasio (10 de marzo de 1994, Vega Baja, San Juan), conocido universalmente como Bad Bunny, es un intérprete y compositor de música urbana puertorriqueño. Se le considera uno de los principales nombres del panorama actual del rap, trap y reguetón en español.</h2>
+      <h2> Bad Bunny. Benito Antonio Martínez Ocasio (10 de marzo de 1994, Vega Baja, San Juan), conocido universalmente como Bad Bunny, es un intérprete y compositor de música urbana puertorriqueño.</h2>
       <p></p>
     </div>
     <div class="row__column middle">
@@ -120,7 +121,7 @@
    <img src="imagen.gif" width="400" height="200"/>
 
      <video width="600" height="400" controls>
-    <source src="3.mp4" type="video/mp4">
+    <source src="videoHTML.mp4" type="video/mp4">
        </video>
     
 	<a href="Base Access China.html"> Registros  </a> <br> 
